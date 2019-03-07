@@ -1,0 +1,54 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+==Jun Huo
+
+~~~
+{}{img_left}{figure.jpg}{alt text}{131}{160}{http://people.kth.se/~euhanna/}
+Master\n
+School of Petroleum and Chemical Engineering,\n
+Dalian University of Technology\n
+Address: No.2 Linggong Road, Ganjingzi District, Dalian City, Liaoning Province, P.R.China\n
+Phone: \+86\-15942499780\n
+Email: [huojun1993@mail.dlut.edu.cn huojun1993@mail.dlut.edu.cn]
+~~~
+
+== Short Biography
+I am currently a final year master student (*Expected graduation: Jul. 2019*) in the School of Petroleum and Chemical Engineering from [https://www.dlut.edu.cn/ Dalian University of Technology], supervised by [http://faculty.dlut.edu.cn/zhangning/zh_CN/index.htm Prof. Ning Zhang] and [http://faculty.dlut.edu.cn/1993011069/en/index/763457/list/index.htm Prof. Gaohong He]. Previously, I received the B. Eng degree from the College of Chemistry, Chemical Engineering and Environmental Engineering in [http://www.lnpu.edu.cn/ Liaoning Shihua University] in 2016.
+
+== Research Interests
+- Combining Machine Learning and Molecular Simulation to study polymer structure
+
+== Publications
+\* below indicates equal contribution
+. Structural Characteristics of Hydrated Protons in the Conductive Channels: Effect of Electric Field Studied by Molecular Dynamics Simulation \n
+*Jun Huo*, Wenxu Qi, Gaohong He, et al., /Nanoscale/. (Under review)
+. [https://www.sciencedirect.com/science/article/pii/S0360319918340588 Molecular Dynamics Simulation on the Effect of Water Uptake on Hydrogen Bond Network for OH- Conduction in Imidazolium-g-PPO Membrane]\n
+*Jun Huo*, Wenxu Qi, Hongda Zhu, et al., /International Journal of Hydrogen Energy/, *2019*, 44: 3760–3770. \[[https://www.dropbox.com/s/n90y73n15mbzdko/International%20Journal%20of%20Hydrogen%20Energy%202019%20Huo.pdf?dl=0 PDF]\]
+. [https://www.sciencedirect.com/science/article/pii/S0009250918306304 Understanding of Imidazolium Group Hydration and Polymer Structure for Hydroxide Anion Conduction in Hydrated Imidazolium-g-PPO Membrane by Molecular Dynamics Simulations]\n
+Ning Zhang\*, *Jun Huo*\*, Boyun Yang, et al., /Chemical Engineering Science/, *2018*, 192: 1167–1176. \[[https://www.dropbox.com/s/hmbkytgj3cryrpv/Chemical%20Engineering%20Science%202018%20Zhang.pdf?dl=0 PDF]\]
+. [https://pubs.acs.org.ccindex.cn/doi/abs/10.1021/acs.jpcc.7b11020 Structural Characteristics of Hydrated Protons in Ion Conductive Channels: Synergistic Effect of the Sulfonate Group and Fluorine Studied by Molecular Dynamics Simulation]\n
+Yuechun Song, *Jun Huo*, Ning Zhang, et al., /The Journal of Physical Chemistry C/, *2018*, 122(4): 1982-1989. \[[https://www.dropbox.com/s/j3bavucpdaw6h9f/J.%20Phys.%20Chem.%20C%202018%20Song.pdf?dl=0 PDF]\]
+. [https://www.sciencedirect.com/science/article/pii/S0009250918307279 Hydration Structures of Vanadium\/Oxovanadium Cations in the Presence of Sulfuric Acid: A Molecular Dynamics Simulation Study]\n
+Ning Zhang, Boyun Yang, *Jun Huo*, et al., /Chemical Engineering Science/, *2019*, 195: 683-692. \[[https://www.dropbox.com/s/vxcbfsoew3wxm5h/Chemical%20Engineering%20Science%202018%20Zhang-1.pdf?dl=0 PDF]\]
+. [https://pubs.acs.org.ccindex.cn/doi/abs/10.1021/acs.jpcb.7b12790 Effect of Hydrogen-Bonding Interaction on the Arrangement and Dynamics of Water Confined in a Polyamide Membrane: A Molecular Dynamics Simulation]\n
+Ning Zhang, Shaomin Chen, Boyun Yang, *Jun Huo*, et al., /The Journal of Physical Chemistry B/, *2018*, 122(17): 4719-4728. \[[https://www.dropbox.com/s/awcjwlic8puzq1p/J.%20Phys.%20Chem.%20B%202018%20Huo.pdf?dl=0 PDF]\]
+. [https://pubs.acs.org.ccindex.cn/doi/abs/10.1021/acs.jpcc.7b01074 Formation Mechanism of the Spiral-Like Structure of a Hydrogen Bond Network Confined in a Fluorinated Nanochannel: A Molecular Dynamics Simulation]\n
+Ning Zhang, Yuechun Song, *Jun Huo*, et al., /The Journal of Physical Chemistry C/, *2017*, 121(25): 13840-13847. \[[https://www.dropbox.com/s/3if0j6fjmaioyme/J.%20Phys.%20Chem.%20C%202017%20Zhang.pdf?dl=0 PDF]\]
+
+== Education
+- M.S., School of Petroleum and Chemical Engineering, Dalian University of Technology, Sep. 2016 - Present
+- B.Eng., College of Chemistry, Chemical Engineering and Environmental Engineering, Liaoning Shihua University, Sep. 2012 - Jul. 2016
+
+== Skills
+- *Languages* : Python, C\/C\+\+, Tcl\/Tk, etc.
+- *Software* : VMD, NAMD, Lammps, Materials Studio, Gaussian, Office, LaTeX, Photoshop, etc.
+
+== Awards
+- The First Prize of Excellent Master Degree Scholarship, 2018 - 2019
+- The First Prize of Excellent Master Degree Scholarship, 2017 - 2018
+- Outstanding Graduate Student Leader, 2016 - 2017
+- Liaoning provincial Government Scholarship, 2014 - 2015
+
+== Experience
+- 2016.9 - Present, Natural Science Foundation of China (Research on the structure and formation mechanism of hydrated proton in the ion transport channel of proton exchange membrane)
+- 2016.9 – 2017.7, Director of Publicity Department, the Graduate Student Union
+- 2016.9 - 2017.7, College Office Assistant
