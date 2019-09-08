@@ -140,8 +140,8 @@ def standardconf():
   
   [defaultcss]
   <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-  <link rel="shortcut icon" href="/favicon.ico"/>
-  <link rel="bookmark" href="/favicon.ico"/>
+  <link rel="shortcut icon" href="./favicon.ico"/>
+  <link rel="bookmark" href="./favicon.ico"/>
   
   [windowtitle]
   # used in header for window title.
